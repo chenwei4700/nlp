@@ -3,3 +3,6 @@ beautifulsoup4
 lxml
 pandas
 matplotlib
+jieba
+scikit-learn
+joblib

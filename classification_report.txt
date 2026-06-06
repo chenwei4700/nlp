@@ -1,0 +1,21 @@
+CPBL / MLB Baseball News Classification Report
+====================================================
+Model: TF-IDF + Linear SVM
+Train rows: 800
+Test rows: 200
+Accuracy: 0.9950
+
+Classification report:
+              precision    recall  f1-score   support
+
+        CPBL     1.0000    0.9900    0.9950       100
+         MLB     0.9901    1.0000    0.9950       100
+
+    accuracy                         0.9950       200
+   macro avg     0.9950    0.9950    0.9950       200
+weighted avg     0.9950    0.9950    0.9950       200
+
+Confusion matrix (rows=true, columns=predicted):
+        CPBL  MLB
+CPBL     99    1
+MLB       0  100
