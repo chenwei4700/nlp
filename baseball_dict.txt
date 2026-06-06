@@ -89,14 +89,15 @@ MLB 10 nz
 鈴木駿輔 10 nz
 
 # ===== MLB 知名球員 =====
-乙乙翔平 10 nz
-乙大谷 10 nz
-乙翔平 10 nz
-乙Ohtani 10 nz
-乙Trout 10 nz
-楚乙特 10 nz
-乙Judge 10 nz
-乙乙賈乙 10 nz
+大谷翔平 10 nz
+Mike Trout 10 nz
+楚奧特 10 nz
+Aaron Judge 10 nz
+賈吉 10 nz
+Mookie Betts 10 nz
+貝茲 10 nz
+Freddie Freeman 10 nz
+弗里曼 10 nz
 
 # ===== 棒球術語 =====
 全壘打 10 n
@@ -184,7 +185,7 @@ MVP 10 nz
 新人王 10 nz
 賽揚獎 10 nz
 金手套獎 10 nz
-銀乙球獎 10 nz
+銀棒獎 10 nz
 WBC 10 nz
 經典賽 10 nz
 世界棒球經典賽 10 nz
